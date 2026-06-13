@@ -1,16 +1,18 @@
-# Introduction to Git and GitHub
+# mcino-Introduction-to-Git-and-GitHub
 
-## Simple Interest Calculator
+This repository was created as part of the IBM Introduction to Git and GitHub Final Project.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+## Project Purpose
 
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
+The purpose of this repository is to demonstrate GitHub and Git command line skills including:
 
-_© 2022 XYZ, Inc._
+* Repository management
+* Branching and merging
+* Pull requests
+* Open source collaboration
+* License management
+* Contribution guidelines
+
+## Author
+
+Ahmad Sohail Azizi
