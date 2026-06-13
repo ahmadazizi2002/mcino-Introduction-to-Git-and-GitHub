@@ -30,3 +30,4 @@ The program calculates and displays the simple interest earned.
 
 Ahmad Sohail Azizi
 
+This project calculates simple interest.
