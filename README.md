@@ -1,18 +1,32 @@
-# mcino-Introduction-to-Git-and-GitHub
+# Simple Interest Calculator
 
-This repository was created as part of the IBM Introduction to Git and GitHub Final Project.
+This project provides a simple interest calculator implemented using a Bash script.
 
-## Project Purpose
+## Description
 
-The purpose of this repository is to demonstrate GitHub and Git command line skills including:
+The calculator computes simple interest based on the following formula:
 
-* Repository management
-* Branching and merging
-* Pull requests
-* Open source collaboration
-* License management
-* Contribution guidelines
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Input
+
+The user provides:
+
+* Principal amount
+* Rate of interest
+* Time period
+
+## Output
+
+The program calculates and displays the simple interest earned.
+
+## Technologies Used
+
+* Bash Shell Script
+* Git
+* GitHub
 
 ## Author
 
 Ahmad Sohail Azizi
+
